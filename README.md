@@ -53,4 +53,4 @@ Testing was crucial. We conducted extensive tests to ensure MediBot's responses 
 4. **Real-Time Processing**: Ensuring MediBot could process and respond to queries in real-time without lag was a technical challenge that required optimizing our code and infrastructure.
 
 
-
+## Developed by Saara and Neelmani 
