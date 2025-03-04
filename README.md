@@ -14,9 +14,7 @@ Throughout this project, we learned a great deal about both the technical and pr
 
 ## Building MediBot
 
-<div align="center">
-    <img src="./MediBot.jpeg" alt="MediBot" width="300" height="300"/>
-</div>
+
 
 ### Step 1: Research and Data Collection
 
